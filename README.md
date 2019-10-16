@@ -12,7 +12,7 @@ Library that shows a horizontal progress like Instagram stories.
 
 <img src="https://3.bp.blogspot.com/-EQdxCSXOlP4/XadbQXRU13I/AAAAAAAAWm4/-8Ivn7MEutQScry8SezUh6znfml9Ws0AACK4BGAYYCw/s1600/WhatsApp%2BImage%2B2019-10-16%2Bat%2B11.06.17%2BPM.jpeg" width=200 />
 
-<img src="https://1.bp.blogspot.com/-ttjNAe9eEtI/XaddEFB3WiI/AAAAAAAAWnE/ZoAffKoES7Y-WXAR422M5tMU5XKgPo_ZACLcBGAsYHQ/s1600/2019_10_16_23_01_06.gif" width=200 /> 
+<img src="app/2019_10_16_23_01_06.gif" width=200 /> 
 
 ^Modified by me [Ravi Shankar Singh](https://about.me/itsravishankarsingh)
 
