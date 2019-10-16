@@ -174,11 +174,11 @@ public class MainActivity extends AppCompatActivity implements StoriesProgressVi
     }
 
     private void prepareStoriesList() {
+        mStoriesList.add(new StoriesData("https://4.bp.blogspot.com/-IvTudMG6xNs/XPlXQ7Vxl_I/AAAAAAAAVcc/rZQR7Jcvbzoor3vO_lCtMHPZG7sO3VJOgCK4BGAYYCw/s1600/1D6A0131.JPG-01.jpeg.jpg", "image/png"));
         mStoriesList.add(new StoriesData("https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4", "video/mp4"));
-        mStoriesList.add(new StoriesData("https://placeimg.com/640/480/any", "image/png"));
-        mStoriesList.add(new StoriesData("https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4", "video/mp4"));
+        mStoriesList.add(new StoriesData("http://4.bp.blogspot.com/-CmDFsVPzKSk/XadSsWodkxI/AAAAAAAAWjw/BBL2XfSgz0MnNPwp2Utsj1Sd5EM7RlGGgCK4BGAYYCw/s1600/download.png", "image/png"));
+        mStoriesList.add(new StoriesData("https://1.bp.blogspot.com/-7uvberoubSg/XKh7rdskK0I/AAAAAAAAUaM/1B4CAK5oieUYApo1s9ZifReQRihVTXPvgCLcBGAs/s1600/Screenshot%2B2019-04-06%2Bat%2B3.08.31%2BPM.png", "image/png"));
         mStoriesList.add(new StoriesData("https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4", "video/mp4"));
-        mStoriesList.add(new StoriesData("https://placeimg.com/640/480/any", "image/png"));
         mStoriesList.add(new StoriesData("https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4", "video/mp4"));
     }
 
