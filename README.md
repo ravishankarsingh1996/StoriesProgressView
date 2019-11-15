@@ -186,8 +186,6 @@ I have done some modifications to support videos as well for stories.
 Skip and Reverse story
 ---
 
-<img src="image/skip-reverse.gif" width=200 />
-
 ```java
   storiesProgressView.skip();
   storiesProgressView.reverse();
@@ -195,7 +193,7 @@ Skip and Reverse story
 
 Pause and Resume story
 ---
-<img src="image/pause-resume.gif" width=200 />
+
 
 ```java
   storiesProgressView.pause();
